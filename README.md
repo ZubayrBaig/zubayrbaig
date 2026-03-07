@@ -23,7 +23,6 @@ I'm also co-building **[Sakinah](https://getsakinah.com)**, a pre-launch Shariah
 
 - **ShelfSight** — AI-assisted library management system built at UTD. Photo-based book cataloging, Dewey Decimal classification, and a 2D interactive library map canvas with React Flow.
 - **Sakinah** — US-based Takaful life insurance (mutual pool structure, ethical investment, surplus sharing). Currently in the waitlist-building phase.
-- **Investor Statement Automation** — Playwright (Python) automation at Provision Capital to scrape 742+ investor accounts from InvestNext, generate PDFs from HTML templates, and bulk-upload to each account's Documents tab.
 
 ---
 
