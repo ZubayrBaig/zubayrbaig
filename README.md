@@ -1,23 +1,42 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+<div align="center">
+	<img src="https://avatars.githubusercontent.com/u/177345060?v=4" width="120" style="border-radius:50%" alt="Mirza Zubayr Baig"/>
+  
+	# Hi, I'm Mirza Zubayr Baig
+  
+	**CS @ UT Dallas | Special Projects @ Provision Capital**
+  
+	Plano, TX · [Email](mailto:zubayrbaig@gmail.com)
+</div>
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+---
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+### 👋 About Me
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧑‍💻 Building data-driven web tools, AI integrations & real-world automation systems
+- 🎓 Computer Science student at UT Dallas
+- 💼 Special Projects at Provision Capital
+- 🌐 Passionate about technology, automation, and solving real-world problems
+
+---
+
+### 🚀 Projects & Interests
+- Web development (full stack)
+- AI/ML integrations
+- Automation systems
+- Data-driven applications
+
+---
+
+### 📫 Connect with Me
+- [GitHub Profile](https://github.com/ZubayrBaig)
+- [Email](mailto:zubayrbaig@gmail.com)
+
+---
+
+<p align="center">
+	<em>Let's build something amazing together!</em>
+</p>
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
