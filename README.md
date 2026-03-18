@@ -15,14 +15,11 @@
 
 I'm a Computer Science student at UT Dallas and work on Special Projects at **Provision Capital**, a US-based Shariah-compliant private equity firm focused on real estate investment. I build automation tools, data-driven web apps, and AI-powered systems — usually with React, Node, Python, and whatever gets the job done.
 
-I'm also co-building **[Sakinah](https://getsakinah.com)**, a pre-launch Shariah-compliant term life insurance company built on the Takaful model.
-
 ---
 
 ### What I'm Working On
 
 - **ShelfSight** — AI-assisted library management system built at UTD. Photo-based book cataloging, Dewey Decimal classification, and a 2D interactive library map canvas with React Flow.
-- **Sakinah** — US-based Takaful life insurance (mutual pool structure, ethical investment, surplus sharing). Currently in the waitlist-building phase.
 
 ---
 
