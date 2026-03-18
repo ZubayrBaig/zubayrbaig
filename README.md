@@ -6,7 +6,7 @@
 
 	**CS @ UT Dallas | Special Projects @ Provision Capital**
 
-	Valley Ranch, Dallas · [Email](mailto:zubayrbaig@gmail.com) · [GitHub](https://github.com/ZubayrBaig)
+	Valley Ranch, Dallas · [Email](zubayrbaig@gmail.com) · [GitHub](https://github.com/ZubayrBaig)
 </div>
 
 ---
